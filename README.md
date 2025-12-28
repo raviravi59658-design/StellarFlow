@@ -37,7 +37,7 @@ The video answers the question:
 
 The full project, including the video and links, was submitted and shared on **X (formerly Twitter)**:  
 
-🐦 [View Submission on X](https://x.com/raviravi660665/status/2005336086550282500)
+🐦 [View Submission on X](https://x.com/raviravi660665)
 
 This post provides a quick summary of the project and links to all resources for easy reference.
 
