@@ -33,6 +33,15 @@ The video answers the question:
 > **Why does a text message travel the world in seconds, but money takes days?**
 
 ---
+## 🌐 Project Submission on X
+
+The full project, including the video and links, was submitted and shared on **X (formerly Twitter)**:  
+
+🐦 [View Submission on X](https://x.com/raviravi660665/status/2005336086550282500)
+
+This post provides a quick summary of the project and links to all resources for easy reference.
+
+---
 
 ## 📖 Full Technical Guide
 
