@@ -1,8 +1,6 @@
-Absolutely — here’s a **clear, detailed, professional README** you can use for your GitHub repo tied to your educational Stellar project. It assumes this repo is primarily for **the video + the guide + any example code** you include.
+# 🌊 StellarFlow  
+### When Money Learns to Move Like Information
 
----
-
-# 📘 README — *When Money Learns to Move Like Information*
 
 **A Beginner-to-Builder Guide to Stellar Payments**
 
